@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Caroline Kirby. I’m interested in information technology and getting better at programming.
+- 👋 Hi, I’m Caroline Kirby a student at the University of Missouri-Columbia.
 
 <!---
 ckirbyco/ckirbyco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
